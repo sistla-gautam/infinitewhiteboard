@@ -2,7 +2,7 @@
 
 ### Issue tracker
 
-Issues and specs for this repo live as local markdown under `.scratch/<feature-slug>/`. See `docs/agents/issue-tracker.md`.
+Issues and PRDs for this repo live as GitHub issues (`sistla-gautam/infinitewhiteboard`), managed via the `gh` CLI. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
